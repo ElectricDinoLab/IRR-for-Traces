@@ -1,10 +1,9 @@
 % This script runs a statistical analysis on the reproducibility of traces
 % by using spatial matching to compare two traces and determine a 'k' value to represent the traces'                                                                         overall agreement 
 % 
-% (c) Lena Patel, date
+% (c) Lena Patel, 4/12/2018
 %
 clear all
-
 
 % Query the user for relevant IRR calculation numbers
 prompt = {'nn','np','pn','pp','N'};
