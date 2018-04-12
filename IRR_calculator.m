@@ -5,6 +5,7 @@
 %
 clear all
 
+
 % Query the user for relevant IRR calculation numbers
 prompt = {'nn','np','pn','pp','N'};
 titl = 'MouseClick Directory Finder';

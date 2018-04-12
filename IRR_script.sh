@@ -4,6 +4,7 @@ trace_union -thr 2 trace_pp
 fslstats trace_pp -V
 
 
+
 # calculate nn
 bet FA.nii.gz FA_bet -f .5
 fslstats FA_bet.nii.gz -V
